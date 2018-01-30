@@ -1,0 +1,21 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.au-syd.bluemix.net",
+      "Org": "pawrawal@in.ibm.com",
+      "Space": "GanpatUniversity"
+    },
+    "Name": "ECAD-1530-p4",
+    "Instrumentation": {
+      "domain": "au-syd.mybluemix.net",
+      "services": [
+        "ketulstudentfeedbackdb",
+        "KetulAN-1530"
+      ],
+      "instances": "1"
+    }
+  },
+  "Path": "User-Count-1530/manifest.yml",
+  "Type": "Cloud Foundry"
+}
