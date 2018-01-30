@@ -6,11 +6,11 @@
       "Org": "pawrawal@in.ibm.com",
       "Space": "GanpatUniversity"
     },
-    "Name": "ECAD-1530-p4",
+    "Name": "User-Count-1530",
     "Instrumentation": {
+      "host": "User-Count-1530",
       "domain": "au-syd.mybluemix.net",
       "services": [
-        "ketulstudentfeedbackdb",
         "KetulAN-1530"
       ],
       "instances": "1"
